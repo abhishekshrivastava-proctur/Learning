@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: abhis
+Build-Jdk: 12.0.1
+Implementation-Title: springbootintro
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.abhishek.firstproject
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springbootintro
+Created-By: Maven Integration for Eclipse
+
